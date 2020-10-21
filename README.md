@@ -1,7 +1,7 @@
 # gbfbot
 Simple bot farm tapi masih memiliki bug :
--Slime
--Weapon Upgrade Material
+   -Slime
+   -Weapon Upgrade Material
 
 Langkah-langkah :
 1. install python terlebih dahulu
